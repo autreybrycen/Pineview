@@ -35,7 +35,7 @@ The placeholder label disappears on its own. Write alt text that describes what'
 
 **Header and footer.** These are repeated on all 5 pages. To change the phone number or email, use find-and-replace across all `.html` files.
 
-**Live domain.** Replace `https://www.example.com` (canonical and og tags) with your real domain.
+**Domain.** The site is set to `https://pineviewnw.com` (canonical and og tags).
 
 ## The estimate form
 Until you connect a form service, submitting the form opens the visitor's email app with the request filled in and addressed to you.
